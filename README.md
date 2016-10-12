@@ -8,7 +8,7 @@ Chrome extension to automatically shop using Amazon Smile. It removes referral l
 Sadly this is the only way for now, I do not have a verified Chrome Webstore account :disappointed:
 
 1. Clone or download this repository using the clone or download button at the top right
-2. Go to: chrome://extensions inside Chrome, enable Developer mode and load the `app` folder as an unpacked extension.
+2. Go to: chrome://extensions inside Chrome, enable Developer mode and load the `dist` folder as an unpacked extension.
 3. Enjoy!
 
 ### Developer
