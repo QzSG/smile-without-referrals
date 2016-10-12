@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Smile without Referrals",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Performs magic to bring all links to Amazon products to their Amazon Smile alternatives. Removes pesky & hidden Amazon referals too!",
+    "description": "The description of the application"
+  }
+}
