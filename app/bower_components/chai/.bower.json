@@ -33,6 +33,5 @@
   },
   "_source": "https://github.com/chaijs/chai.git",
   "_target": "^3.5.0",
-  "_originalSource": "chai",
-  "_direct": true
+  "_originalSource": "chai"
 }
