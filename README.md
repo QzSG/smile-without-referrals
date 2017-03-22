@@ -1,6 +1,7 @@
 # Smile without Referrals [![MIT license](https://img.shields.io/github/license/QzSG/smile-without-referrals.svg?maxAge=2592000&style=flat-square)](https://github.com/QzSG/smile-without-referrals/blob/master/LICENSE)
 
 Chrome extension to automatically shop using Amazon Smile. It removes referral links too :smile:
+This extension will no longer be updated although existing code should still be working.
 
 ## Getting Started
 ### I just want to use it! :smile: :+1:
