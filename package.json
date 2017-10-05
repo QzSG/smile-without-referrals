@@ -2,7 +2,7 @@
   "name": "smile-without-referrals",
   "private": true,
   "engines": {
-    "node": ">=0.8.0"
+    "node": "6.11.3"
   },
   "devDependencies": {
     "babel-core": "^6.7.2",
